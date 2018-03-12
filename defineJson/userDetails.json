@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": 1,
+      "phoneNumber": "13677090296",
+      "password": "123",
+      "controlId": "1",
+      "controlStatus": "上线",
+      "controlHistory": [],
+      "inductorId": "5",
+      "inductorStatus": "上线",
+      "inductorHistory": [],
+      "province": "江西",
+      "city": "南昌",
+      "county": "新建县",
+      "village": "新建村",
+      "comment": "备注"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status":"ok","data":[
+  {
+    "id": 1,
+    "phoneNumber":"13677090296",
+    "controlId": "1" ,
+    "inductorId":"5",
+    "advice":"改善",
+    "reply":"谢谢您的建议"
+  }
+]
+}

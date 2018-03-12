@@ -1,0 +1,12 @@
+{
+  "status":"ok","data":[
+  {
+    "id": 1,
+    "phoneNumber":"13677090296",
+    "controlId": "1" ,
+    "inductorId":"5",
+    "alarmTime":"2017-09-01 16:30",
+    "alarmReleaseTime":"2017-09-01 17:30"
+  }
+]
+}
